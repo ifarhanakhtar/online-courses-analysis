@@ -10,6 +10,7 @@ This repository showcases a full-scale Power BI dashboard project analyzing tren
 - 📊 **Tool Used**: Power BI Desktop
 - 📌 **Focus**: Category-wise insights, skill trends, language preferences, subtitle impact, instructor ranking, and viewer engagement
 - 📈 **Goal**: Help the EdTech startup grow its course offerings in alignment with viewer demand and content performance
+- 🔗 [Click here to view the live dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjU5N2IyMmEtMDVmOC00OTMwLWI1ZGEtOWIxOGIxZTdhZDUzIiwidCI6IjM0YmQ4YmVkLTJhYzEtNDFhZS05ZjA4LTRlMGEzZjExNzA2YyJ9)
 
 ---
 
